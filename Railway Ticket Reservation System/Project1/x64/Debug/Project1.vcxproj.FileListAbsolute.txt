@@ -1,0 +1,28 @@
+C:\Users\Yash\Desktop\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Yash\Desktop\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Yash\Desktop\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.Details.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm1.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm2.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+E:\BNM\6\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+E:\BNM\6\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+E:\BNM\6\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.Details.resources
+E:\BNM\6\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm.resources
+E:\BNM\6\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm1.resources
+E:\BNM\6\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm2.resources
+E:\BNM\6\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Yash\Desktop\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Yash\Desktop\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Yash\Desktop\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.Details.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm1.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm2.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Yash\Desktop\FS-LAB-MINI-final (2)\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Yash\Desktop\FS-LAB-MINI-final (2)\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Yash\Desktop\FS-LAB-MINI-final (2)\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.Details.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-final (2)\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-final (2)\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm1.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-final (2)\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.MyForm2.resources
+C:\Users\Yash\Desktop\FS-LAB-MINI-final (2)\FS-LAB-MINI-final\FS-LAB-MINI-PROJECT-master\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
